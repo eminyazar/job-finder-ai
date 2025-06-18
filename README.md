@@ -1,10 +1,10 @@
-# 🧠 Job Finder AI
+# 🧠 Job Finder
 
 A smart CV analyzer and job recommender system powered by FastAPI and Streamlit.
 
 ## 🚀 Overview
 
-Job Finder AI helps users upload their CVs (in PDF or DOCX format), extract relevant skills using NLP, and get personalized job recommendations. It also provides direct job search links on LinkedIn based on matched job titles.
+Job Finder helps users upload their CVs (in PDF or DOCX format), extract relevant skills using NLP, and get personalized job recommendations. It also provides direct job search links on LinkedIn based on matched job titles.
 
 ## 🛠 Tech Stack
 
